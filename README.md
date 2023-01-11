@@ -4,6 +4,7 @@ https://bit.ly/3QvDnSY
 # Personal Website
 https://matthewg2219.wixsite.com/portfolio
 
+# Passion and Summary of Past Work
 As a mechatronics student at the University of Waterloo, I bring a unique combination of technical skills and hands-on experience to the table. With a background in software development, I am comfortable creating and deploying mobile applications using frameworks like Flutter and Firebase. I have experience in both professional and personal settings, including working at a startup called VCycene where I specialized in the creation of composting machines.
 
 In addition to my software skills, I have experience in PCB design, using tools like Altium Circuitmaker and KiCad to create schematics, lay out parts, and send them to manufacturing. I have experience in mechanical design as well, using software like Fusion360 and Solidworks to create a wide range of personal gadgets and tools.
